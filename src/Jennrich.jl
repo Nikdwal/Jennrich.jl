@@ -8,7 +8,7 @@ export jennrich
 
 Compute the rank r canonical polyadic decomposition of A using a pencil-based algorithm
 """
-jennrich(A, r :: Int) = jennrich(A, ones(r))
+jennrich(A, r :: Int) = jennrich(A, ones(Int, r))
 
 """
 	jennrich(A, L :: AbstractVector{Int})

@@ -1,4 +1,4 @@
-# Jennrich
+# Jennrich.jl
 
 Compute the canonical polyadic decomposition or (L,L,1) block term decomposition of a third order tensor using a pencil-based alorithm, also known as Jennrich's algorithm.
 

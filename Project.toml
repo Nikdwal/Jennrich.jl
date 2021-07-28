@@ -1,0 +1,13 @@
+name = "Jennrich"
+uuid = "513c2e00-60c6-4a4a-8fa4-7f17ae588b5b"
+authors = ["Nick Dewaele <nick.dewaele@kuleuven.be> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
